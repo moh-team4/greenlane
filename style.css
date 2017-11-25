@@ -1,0 +1,47 @@
+
+body {
+	background-color:#eeeded;
+}
+
+
+h1 {
+	color:#599326;
+	font-size: 18px;
+	margin: 10px auto 15px;
+	padding-bottom: 15px;
+	border-bottom-width:1px;
+   border-bottom-color:White;
+   border-bottom-style: solid;
+}
+
+.circle {
+	border-radius: 50%;
+	background-color: #fff;
+	height:20px;
+	width:20px;
+	margin:2px;
+	float: left;
+}
+
+.circle.full{
+	background-color: #49841d;
+}
+
+.button {
+	width:220px;
+	margin:5px auto;
+	border: 2px solid;
+    border-radius: 15px;
+    background-color: #000000;    
+    color:#fff;
+    padding:15px;
+}
+
+.button:hover{
+	background-color: #49841d;
+}
+
+a {
+	text-decoration: none;
+	color:#fff;
+}
